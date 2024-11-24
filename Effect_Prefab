@@ -1,8 +1,8 @@
 {
   "effectStates": [
-    { "name": "Character1", "isActive": 0 },
-    { "name": "Character2", "isActive": 0 },
-    { "name": "Character3", "isActive": 0 },
+    { "name": "Character1", "isActive": 1 },
+    { "name": "Character2", "isActive": 1 },
+    { "name": "Character3", "isActive": 1 },
     { "name": "Character4", "isActive": 0 },
     { "name": "Character5", "isActive": 0 },
     { "name": "Character6", "isActive": 0 },
